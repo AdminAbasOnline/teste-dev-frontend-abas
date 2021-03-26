@@ -4,18 +4,18 @@
 
 <h2 align="center" > Teste Dev Mobile </h2>
 
-### 1 - Sobre o App
+## 1 - Sobre o App
 
 O objetivo é criar um app para o cadastro de contas bancárias pessoais.
 
-### 2 - Tecnologias
+## 2 - Tecnologias
 
 O app deverá ser desenvolvido na tecnologia React Native.
   
   #### 2.1 - Diferencial (opcional) 
   Utilizar a linguagem TypeScript para escrita do código.
 
-### 3 - Funcionalidades
+## 3 - Funcionalidades
 
 O app deverá possuir as seguintes funcionalidades:
 
@@ -35,11 +35,11 @@ O app deverá possuir as seguintes funcionalidades:
     - Abaixo dos campos deverá possuir um botão para cadastrar a conta.
     - O cadastro da conta deverá ser armazenado no local storage do dispositivo - Armazenar (Codigo do Banco, Agencia e Conta).
 
-## Instruções
+## 4 - Instruções
 - Criar repositório no Github para desenvolvimento do projeto;
-- Após finalizar, enviar link do repositório para **pedro@abas.online**, **lucas.silva@abas.online** e **mariana.machado@groupsoftware.com.br**.
+- Após finalizar, enviar link do repositório para **pedro@abas.online**, **lucas.silva@abas.online**,  e **mariana.machado@groupsoftware.com.br**.
 
-## E por fim
+## 5 - E por fim
 - Gostaríamos de ver o histórico de seus commits;
 - Vamos avaliar a maneira que você escreveu seu código e a solução apresentada;
 - Caso encontre algum impedimento no decorrer do desenvolvimento, entregue da maneira que preferir e faça uma explicação sobre o impedimento;
