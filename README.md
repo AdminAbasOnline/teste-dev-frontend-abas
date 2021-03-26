@@ -35,6 +35,8 @@ O app deverá possuir as seguintes funcionalidades:
     - Abaixo dos campos deverá possuir um botão para cadastrar a conta.
     - O cadastro da conta deverá ser armazenado no local storage do dispositivo - Armazenar (Codigo do Banco, Agencia e Conta).
 
+A documentação das API: https://brasilapi.com.br/docs#tag/BANKS
+
 ## 4 - Instruções
 - Criar repositório no Github para desenvolvimento do projeto;
 - Após finalizar, enviar link do repositório para **fernando@abas.online**, **pedro@abas.online**, **lucas.silva@abas.online**,  e **mariana.machado@groupsoftware.com.br**.
