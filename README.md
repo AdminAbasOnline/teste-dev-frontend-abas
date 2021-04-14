@@ -14,8 +14,9 @@ O app poderá ser desenvolvido nas tecnologias Ionic ou React Native.
   
   #### 2.1 - Diferencial (opcional) 
   
-  Desenvolvido em React Native.
-  Utilizar a linguagem TypeScript para escrita do código.
+  - Desenvolvido em React Native.
+   
+  - Utilizar a linguagem TypeScript para escrita do código.
 
 ## 3 - Funcionalidades
 
