@@ -10,9 +10,10 @@ O objetivo é criar um app para o cadastro de contas bancárias pessoais.
 
 ## 2 - Tecnologias
 
-O app deverá ser desenvolvido na tecnologia React Native.
+O app poderá ser desenvolvido nas tecnologias Ionic ou React Native.
   
   #### 2.1 - Diferencial (opcional) 
+  Desenvolvido em React Native.
   Utilizar a linguagem TypeScript para escrita do código.
 
 ## 3 - Funcionalidades
