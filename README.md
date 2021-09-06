@@ -2,7 +2,7 @@
   <img alt="Abas Online" src="https://abas.online/wp-content/themes/abas/images/marca-abas-positiva.svg" width="200px" />
 </h1>
 
-<h2 align="center" > Teste Dev Mobile </h2>
+<h2 align="center" > Teste Dev Abas </h2>
 
 ## 1 - Sobre o App
 
@@ -10,12 +10,10 @@ O objetivo é criar um app para o cadastro de contas bancárias pessoais.
 
 ## 2 - Tecnologias
 
-O app poderá ser desenvolvido nas tecnologias Ionic ou React Native.
+O app poderá ser desenvolvido nas tecnologias Angular, React ou React Native.
   
   #### 2.1 - Diferencial (opcional) 
-  
-  - Desenvolvido em React Native.
-   
+    
   - Utilizar a linguagem TypeScript para escrita do código.
 
 ## 3 - Funcionalidades
