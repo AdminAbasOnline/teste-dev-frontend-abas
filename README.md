@@ -40,7 +40,7 @@ A documentação da API: https://brasilapi.com.br/docs#tag/BANKS
 
 ## 4 - Instruções
 - Criar repositório no Github para desenvolvimento do projeto;
-- Após finalizar, enviar link do repositório para **fernando@abas.online**, **lucas.silva@abas.online**,  e **mariana.machado@groupsoftware.com.br**.
+- Após finalizar, enviar link do repositório para **fernando@abas.online**, **lucas.sartori@abas.online**,  e **mariana.machado@groupsoftware.com.br**.
 
 ## 5 - E por fim
 - Gostaríamos de ver o histórico de seus commits;
